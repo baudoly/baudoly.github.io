@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false  # remove this line to put the page online
 title: Technical notes
 ---
 
