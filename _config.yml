@@ -1,0 +1,9 @@
+title: Basile Audoly
+description: >-
+  Research software, technical notes and publications in solid mechanics.
+theme: minima
+# Pages listed in the navigation bar, in this order
+header_pages:
+  - software.md
+  - notes.md
+  - publications.md
